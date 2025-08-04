@@ -34,6 +34,12 @@ const Login = () => {
             </div>
 
             <div>
+              <h2 className="text-center mb-2 text-xl text-[#15072F] cursor-pointer transition-all duration-100 underline hover:scale-110">
+                crear usuario
+              </h2>
+            </div>
+
+            <div>
               <ButtonLogin />
             </div>
           </div>
